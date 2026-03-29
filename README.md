@@ -2,21 +2,22 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-🐍 Snake Game (Vibe Coded)
+<h1>🐍 Snake Game (Vibe Coded)</h1>
+<br>
+<p>A classic Snake Game built with pure vibes, curiosity, and experimentation using Google Studio. This project is less about perfection and more about learning, building, and shipping something fun.</p>
+<br>
 
-A classic Snake Game built with pure vibes, curiosity, and experimentation using Google Studio. This project is less about perfection and more about learning, building, and shipping something fun.
-
-🚀 About the Project
-
-This is a simple implementation of the legendary Snake Game where the player controls a snake that grows longer as it eats food, while avoiding collisions with walls and itself.
-
+<h1>🚀 About the Project</h1>
+<br>
+<p>This is a simple implementation of the legendary Snake Game where the player controls a snake that grows longer as it eats food, while avoiding collisions with walls and itself.
 The focus of this project was:
 
 Rapid prototyping
 Learning by building
 Exploring logic and game mechanics
 Having fun while coding
-
+</p>
+<br>
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
