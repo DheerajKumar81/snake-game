@@ -18,8 +18,8 @@ Exploring logic and game mechanics
 Having fun while coding
 </p>
 <br>
-# Run and deploy your AI Studio app
-
+<h1>Run and deploy your AI Studio app</h1>
+<br>
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/68e6f60c-9104-48de-8b36-32bb852ee844
