@@ -35,6 +35,7 @@ View your app in AI Studio: https://ai.studio/apps/68e6f60c-9104-48de-8b36-32bb8
 3. Run the app:
    `npm run dev`
 
-   PROJECT PREVIEW
+   <h2>PROJECT PREVIEW</h2>
+   <br>
 
-  <img src='C:\Users\Desktop\Desktop\snakegame.PNG'> 
+  <img width="1200" height="1100" src='C:\Users\Desktop\Desktop\snakegame.PNG'> 
