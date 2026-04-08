@@ -34,3 +34,7 @@ View your app in AI Studio: https://ai.studio/apps/68e6f60c-9104-48de-8b36-32bb8
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+   PROJECT PREVIEW
+
+  <img src='C:\Users\Desktop\Desktop\snakegame.PNG'> 
