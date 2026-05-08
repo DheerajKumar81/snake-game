@@ -38,4 +38,4 @@ View your app in AI Studio: https://ai.studio/apps/68e6f60c-9104-48de-8b36-32bb8
    <h2>PROJECT PREVIEW</h2>
    <br>
 
-  <img width="1200" height="1100" src='C:\Users\Desktop\Desktop\snakegame.PNG'> 
+   
